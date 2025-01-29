@@ -4,8 +4,6 @@
 
 ### Skills: 
 </p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=10% width=10% />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height=10% width=10% />
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height=10% width=10% />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=10% width=10% /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height=10% width=10% /> <img src ="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height=10% width=10% />
 
 </p>
