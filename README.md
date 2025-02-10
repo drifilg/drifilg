@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0e54c23f-c7d4-4eb8-93c9-d2a7367d13db" width="33%">
-  <img src="https://github.com/user-attachments/assets/0e54c23f-c7d4-4eb8-93c9-d2a7367d13db" width="33%">
-  
+<h1 align="center" style="color: #ff7f00;">Adriane Filgueira</h1>
+
+<p align="center" style="color: #9932cc;">
+  <b>Estudante de Ciência de Dados e Gestão da Tecnologia da Informação</b><br>
+  Tenho 25 anos de idade e resido em São Paulo.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F6CEE3&size=35&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Adriane+Filgueira;Tenho+25+anos+;Resido+em+São+Paulo;Estudante+de+Ciência+de+Dados;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+<p align="center" style="color: #ff7f00;">
+  Atualmente estudo sobre as Tecnologias:
+</p>
+<br><br>
 
 
 
