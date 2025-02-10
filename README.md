@@ -1,18 +1,22 @@
-<h1 align="center" style="color: #ff7f00;">Adriane Filgueira</h1>
+# Adriane Filgueira ✨
+🎓 Ciência de Dados <br><br>
+🎓 Gestão da Tecnologia da Informação<br><br>
+📍 São Paulo, Brasil<br><br>
+📫 **Como me encontrar?** 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriane-filgueira-39a419197/)
 
-<p align="center" style="color: #9932cc;">
-  <b>Estudante de Ciência de Dados e Gestão da Tecnologia da Informação</b><br>
-  Tenho 25 anos de idade e resido em São Paulo.
-</p>
 
-<p align="center" style="color: #ff7f00;">
-  Atualmente estudo sobre as Tecnologias:
-</p>
+<br><br>
+
+![Adriane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drifilg&show_icons=true&theme=radical)
+
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drifilg&layout=compact&theme=radical)
+
 <br><br>
 
 
-
-<p align="center">
+<p align="left">
   <img src ="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height=10% width=10% />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=10% width=10% /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height=10% width=10% /> 
