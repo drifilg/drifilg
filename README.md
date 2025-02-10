@@ -4,7 +4,7 @@
   
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F6CEE3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adriane+Filgueira;I'm+25+years+old;I'm+from+Brazil;Data+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F6CEE3&size=35&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Adriane+Filgueira;Tenho+25+anos+;Resido+em+São+Paulo;Estudante+de+Ciência+de+Dados;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 
